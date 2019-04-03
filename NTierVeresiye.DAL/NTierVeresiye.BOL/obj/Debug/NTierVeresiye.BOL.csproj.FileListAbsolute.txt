@@ -1,0 +1,12 @@
+C:\Users\Section1\source\repos\NTierVeresiye\NTierVeresiye.BOL\bin\Debug\NTierVeresiye.BOL.dll
+C:\Users\Section1\source\repos\NTierVeresiye\NTierVeresiye.BOL\bin\Debug\NTierVeresiye.BOL.pdb
+C:\Users\Section1\source\repos\NTierVeresiye\NTierVeresiye.BOL\obj\Debug\NTierVeresiye.BOL.csprojResolveAssemblyReference.cache
+C:\Users\Section1\source\repos\NTierVeresiye\NTierVeresiye.BOL\obj\Debug\NTierVeresiye.BOL.csproj.CoreCompileInputs.cache
+C:\Users\Section1\source\repos\NTierVeresiye\NTierVeresiye.BOL\obj\Debug\NTierVeresiye.BOL.dll
+C:\Users\Section1\source\repos\NTierVeresiye\NTierVeresiye.BOL\obj\Debug\NTierVeresiye.BOL.pdb
+C:\Users\Section1\Downloads\NTierVeresiye\NTierVeresiye.BOL\bin\Debug\NTierVeresiye.BOL.dll
+C:\Users\Section1\Downloads\NTierVeresiye\NTierVeresiye.BOL\bin\Debug\NTierVeresiye.BOL.pdb
+C:\Users\Section1\Downloads\NTierVeresiye\NTierVeresiye.BOL\obj\Debug\NTierVeresiye.BOL.csprojResolveAssemblyReference.cache
+C:\Users\Section1\Downloads\NTierVeresiye\NTierVeresiye.BOL\obj\Debug\NTierVeresiye.BOL.csproj.CoreCompileInputs.cache
+C:\Users\Section1\Downloads\NTierVeresiye\NTierVeresiye.BOL\obj\Debug\NTierVeresiye.BOL.dll
+C:\Users\Section1\Downloads\NTierVeresiye\NTierVeresiye.BOL\obj\Debug\NTierVeresiye.BOL.pdb

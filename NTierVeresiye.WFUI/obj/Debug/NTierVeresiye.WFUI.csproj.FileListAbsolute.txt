@@ -1,0 +1,237 @@
+C:\Users\Section1\source\repos\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\NTierVeresiye.WFUI.exe.config
+C:\Users\Section1\source\repos\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\NTierVeresiye.WFUI.exe
+C:\Users\Section1\source\repos\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\NTierVeresiye.WFUI.pdb
+C:\Users\Section1\source\repos\NTierVeresiye\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.csprojResolveAssemblyReference.cache
+C:\Users\Section1\source\repos\NTierVeresiye\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.Properties.Resources.resources
+C:\Users\Section1\source\repos\NTierVeresiye\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.csproj.GenerateResource.cache
+C:\Users\Section1\source\repos\NTierVeresiye\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.csproj.CoreCompileInputs.cache
+C:\Users\Section1\source\repos\NTierVeresiye\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.exe
+C:\Users\Section1\source\repos\NTierVeresiye\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.pdb
+C:\Users\Section1\source\repos\NTierVeresiye\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.Form1.resources
+C:\Users\Section1\source\repos\NTierVeresiye\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.MüsteriEkleme.resources
+C:\Users\Section1\source\repos\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Section1\source\repos\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\NTierVeresite.BLL.dll
+C:\Users\Section1\source\repos\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\NTierVeresiye.BOL.dll
+C:\Users\Section1\source\repos\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\NTierVeresiye.DAL.dll
+C:\Users\Section1\source\repos\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\EntityFramework.dll
+C:\Users\Section1\source\repos\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\NTierVeresite.BLL.pdb
+C:\Users\Section1\source\repos\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\NTierVeresiye.BOL.pdb
+C:\Users\Section1\source\repos\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\NTierVeresiye.DAL.pdb
+C:\Users\Section1\source\repos\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\NTierVeresiye.DAL.dll.config
+C:\Users\Section1\source\repos\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\de\EntityFramework.SqlServer.resources.dll
+C:\Users\Section1\source\repos\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Section1\source\repos\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\Section1\source\repos\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\it\EntityFramework.SqlServer.resources.dll
+C:\Users\Section1\source\repos\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\ja\EntityFramework.SqlServer.resources.dll
+C:\Users\Section1\source\repos\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\ko\EntityFramework.SqlServer.resources.dll
+C:\Users\Section1\source\repos\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Section1\source\repos\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\Section1\source\repos\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\Section1\source\repos\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\de\EntityFramework.resources.dll
+C:\Users\Section1\source\repos\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\Section1\source\repos\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\Section1\source\repos\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\it\EntityFramework.resources.dll
+C:\Users\Section1\source\repos\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\ja\EntityFramework.resources.dll
+C:\Users\Section1\source\repos\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\ko\EntityFramework.resources.dll
+C:\Users\Section1\source\repos\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Section1\source\repos\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\Section1\source\repos\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\Section1\source\repos\NTierVeresiye\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.csproj.CopyComplete
+C:\Users\Section1\source\repos\NTierVeresiye\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.MüsteriGüncelleSil.resources
+C:\Users\Section1\source\repos\NTierVeresiye\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.Müsteriler.resources
+C:\Users\VB\Downloads\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\NTierVeresiye.WFUI.exe.config
+C:\Users\VB\Downloads\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\NTierVeresiye.WFUI.exe
+C:\Users\VB\Downloads\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\NTierVeresiye.WFUI.pdb
+C:\Users\VB\Downloads\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\NTierVeresite.BLL.dll
+C:\Users\VB\Downloads\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\NTierVeresiye.BOL.dll
+C:\Users\VB\Downloads\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\NTierVeresiye.DAL.dll
+C:\Users\VB\Downloads\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\EntityFramework.dll
+C:\Users\VB\Downloads\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\NTierVeresite.BLL.pdb
+C:\Users\VB\Downloads\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\NTierVeresiye.BOL.pdb
+C:\Users\VB\Downloads\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\NTierVeresiye.DAL.pdb
+C:\Users\VB\Downloads\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\NTierVeresiye.DAL.dll.config
+C:\Users\VB\Downloads\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\de\EntityFramework.SqlServer.resources.dll
+C:\Users\VB\Downloads\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Users\VB\Downloads\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\VB\Downloads\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\it\EntityFramework.SqlServer.resources.dll
+C:\Users\VB\Downloads\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\ja\EntityFramework.SqlServer.resources.dll
+C:\Users\VB\Downloads\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\ko\EntityFramework.SqlServer.resources.dll
+C:\Users\VB\Downloads\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\VB\Downloads\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\VB\Downloads\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\VB\Downloads\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\de\EntityFramework.resources.dll
+C:\Users\VB\Downloads\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\VB\Downloads\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\VB\Downloads\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\it\EntityFramework.resources.dll
+C:\Users\VB\Downloads\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\ja\EntityFramework.resources.dll
+C:\Users\VB\Downloads\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\ko\EntityFramework.resources.dll
+C:\Users\VB\Downloads\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\VB\Downloads\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\VB\Downloads\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\VB\Downloads\NTierVeresiye\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.csprojAssemblyReference.cache
+C:\Users\VB\Downloads\NTierVeresiye\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.Form1.resources
+C:\Users\VB\Downloads\NTierVeresiye\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.MüsteriEkleme.resources
+C:\Users\VB\Downloads\NTierVeresiye\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.MüsteriGüncelleSil.resources
+C:\Users\VB\Downloads\NTierVeresiye\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.Müsteriler.resources
+C:\Users\VB\Downloads\NTierVeresiye\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.Properties.Resources.resources
+C:\Users\VB\Downloads\NTierVeresiye\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.csproj.GenerateResource.cache
+C:\Users\VB\Downloads\NTierVeresiye\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.csproj.CoreCompileInputs.cache
+C:\Users\VB\Downloads\NTierVeresiye\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.csproj.CopyComplete
+C:\Users\VB\Downloads\NTierVeresiye\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.exe
+C:\Users\VB\Downloads\NTierVeresiye\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.pdb
+C:\Users\VB\Downloads\NTierVeresiye\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.UrunEkleme.resources
+C:\Users\Section1\Downloads\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\NTierVeresiye.WFUI.exe.config
+C:\Users\Section1\Downloads\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\NTierVeresiye.WFUI.exe
+C:\Users\Section1\Downloads\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\NTierVeresiye.WFUI.pdb
+C:\Users\Section1\Downloads\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Section1\Downloads\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\NTierVeresite.BLL.dll
+C:\Users\Section1\Downloads\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\NTierVeresiye.BOL.dll
+C:\Users\Section1\Downloads\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\NTierVeresiye.DAL.dll
+C:\Users\Section1\Downloads\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\EntityFramework.dll
+C:\Users\Section1\Downloads\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\NTierVeresite.BLL.pdb
+C:\Users\Section1\Downloads\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\NTierVeresiye.BOL.pdb
+C:\Users\Section1\Downloads\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\NTierVeresiye.DAL.pdb
+C:\Users\Section1\Downloads\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\NTierVeresiye.DAL.dll.config
+C:\Users\Section1\Downloads\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\de\EntityFramework.SqlServer.resources.dll
+C:\Users\Section1\Downloads\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Section1\Downloads\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\Section1\Downloads\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\it\EntityFramework.SqlServer.resources.dll
+C:\Users\Section1\Downloads\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\ja\EntityFramework.SqlServer.resources.dll
+C:\Users\Section1\Downloads\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\ko\EntityFramework.SqlServer.resources.dll
+C:\Users\Section1\Downloads\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Section1\Downloads\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\Section1\Downloads\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\Section1\Downloads\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\de\EntityFramework.resources.dll
+C:\Users\Section1\Downloads\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\Section1\Downloads\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\Section1\Downloads\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\it\EntityFramework.resources.dll
+C:\Users\Section1\Downloads\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\ja\EntityFramework.resources.dll
+C:\Users\Section1\Downloads\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\ko\EntityFramework.resources.dll
+C:\Users\Section1\Downloads\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Section1\Downloads\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\Section1\Downloads\NTierVeresiye\NTierVeresiye.WFUI\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\Section1\Downloads\NTierVeresiye\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.csprojResolveAssemblyReference.cache
+C:\Users\Section1\Downloads\NTierVeresiye\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.Form1.resources
+C:\Users\Section1\Downloads\NTierVeresiye\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.MüsteriEkleme.resources
+C:\Users\Section1\Downloads\NTierVeresiye\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.MüsteriGüncelleSil.resources
+C:\Users\Section1\Downloads\NTierVeresiye\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.Müsteriler.resources
+C:\Users\Section1\Downloads\NTierVeresiye\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.Properties.Resources.resources
+C:\Users\Section1\Downloads\NTierVeresiye\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.UrunEkleme.resources
+C:\Users\Section1\Downloads\NTierVeresiye\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.csproj.GenerateResource.cache
+C:\Users\Section1\Downloads\NTierVeresiye\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.csproj.CoreCompileInputs.cache
+C:\Users\Section1\Downloads\NTierVeresiye\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.csproj.CopyComplete
+C:\Users\Section1\Downloads\NTierVeresiye\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.exe
+C:\Users\Section1\Downloads\NTierVeresiye\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.pdb
+C:\Users\Section1\Downloads\NTierVeresiye\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.Urunler.resources
+C:\Users\Section1\Downloads\NTierVeresiye\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.UrunGuncelleSil.resources
+C:\Users\Section1\Downloads\NTierVeresiye\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.ZamUygula.resources
+C:\Users\Section1\Downloads\NTierVeresiye\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.TedarikciEkleme.resources
+C:\Users\Section1\Downloads\NTierVeresiye\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.TedarikciGuncelleme.resources
+C:\Users\Section1\Downloads\NTierVeresiye\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.Tedarikciler.resources
+C:\Users\VB\Downloads\NTierVeresiye\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.TedarikciEkleme.resources
+C:\Users\VB\Downloads\NTierVeresiye\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.TedarikciGuncelleme.resources
+C:\Users\VB\Downloads\NTierVeresiye\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.Tedarikciler.resources
+C:\Users\VB\Downloads\NTierVeresiye\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.UrunGuncelleSil.resources
+C:\Users\VB\Downloads\NTierVeresiye\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.Urunler.resources
+C:\Users\VB\Downloads\NTierVeresiye\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.ZamUygula.resources
+C:\Users\VB\Desktop\SQL-Visual Studio\NTierVeresiye-ilk\NTierVeresiye.WFUI\bin\Debug\NTierVeresiye.WFUI.exe.config
+C:\Users\VB\Desktop\SQL-Visual Studio\NTierVeresiye-ilk\NTierVeresiye.WFUI\bin\Debug\NTierVeresiye.WFUI.exe
+C:\Users\VB\Desktop\SQL-Visual Studio\NTierVeresiye-ilk\NTierVeresiye.WFUI\bin\Debug\NTierVeresiye.WFUI.pdb
+C:\Users\VB\Desktop\SQL-Visual Studio\NTierVeresiye-ilk\NTierVeresiye.WFUI\bin\Debug\NTierVeresite.BLL.dll
+C:\Users\VB\Desktop\SQL-Visual Studio\NTierVeresiye-ilk\NTierVeresiye.WFUI\bin\Debug\NTierVeresiye.BOL.dll
+C:\Users\VB\Desktop\SQL-Visual Studio\NTierVeresiye-ilk\NTierVeresiye.WFUI\bin\Debug\NTierVeresiye.DAL.dll
+C:\Users\VB\Desktop\SQL-Visual Studio\NTierVeresiye-ilk\NTierVeresiye.WFUI\bin\Debug\EntityFramework.dll
+C:\Users\VB\Desktop\SQL-Visual Studio\NTierVeresiye-ilk\NTierVeresiye.WFUI\bin\Debug\NTierVeresite.BLL.pdb
+C:\Users\VB\Desktop\SQL-Visual Studio\NTierVeresiye-ilk\NTierVeresiye.WFUI\bin\Debug\NTierVeresiye.BOL.pdb
+C:\Users\VB\Desktop\SQL-Visual Studio\NTierVeresiye-ilk\NTierVeresiye.WFUI\bin\Debug\NTierVeresiye.DAL.pdb
+C:\Users\VB\Desktop\SQL-Visual Studio\NTierVeresiye-ilk\NTierVeresiye.WFUI\bin\Debug\NTierVeresiye.DAL.dll.config
+C:\Users\VB\Desktop\SQL-Visual Studio\NTierVeresiye-ilk\NTierVeresiye.WFUI\bin\Debug\de\EntityFramework.SqlServer.resources.dll
+C:\Users\VB\Desktop\SQL-Visual Studio\NTierVeresiye-ilk\NTierVeresiye.WFUI\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Users\VB\Desktop\SQL-Visual Studio\NTierVeresiye-ilk\NTierVeresiye.WFUI\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\VB\Desktop\SQL-Visual Studio\NTierVeresiye-ilk\NTierVeresiye.WFUI\bin\Debug\it\EntityFramework.SqlServer.resources.dll
+C:\Users\VB\Desktop\SQL-Visual Studio\NTierVeresiye-ilk\NTierVeresiye.WFUI\bin\Debug\ja\EntityFramework.SqlServer.resources.dll
+C:\Users\VB\Desktop\SQL-Visual Studio\NTierVeresiye-ilk\NTierVeresiye.WFUI\bin\Debug\ko\EntityFramework.SqlServer.resources.dll
+C:\Users\VB\Desktop\SQL-Visual Studio\NTierVeresiye-ilk\NTierVeresiye.WFUI\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\VB\Desktop\SQL-Visual Studio\NTierVeresiye-ilk\NTierVeresiye.WFUI\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\VB\Desktop\SQL-Visual Studio\NTierVeresiye-ilk\NTierVeresiye.WFUI\bin\Debug\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\VB\Desktop\SQL-Visual Studio\NTierVeresiye-ilk\NTierVeresiye.WFUI\bin\Debug\de\EntityFramework.resources.dll
+C:\Users\VB\Desktop\SQL-Visual Studio\NTierVeresiye-ilk\NTierVeresiye.WFUI\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\VB\Desktop\SQL-Visual Studio\NTierVeresiye-ilk\NTierVeresiye.WFUI\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\VB\Desktop\SQL-Visual Studio\NTierVeresiye-ilk\NTierVeresiye.WFUI\bin\Debug\it\EntityFramework.resources.dll
+C:\Users\VB\Desktop\SQL-Visual Studio\NTierVeresiye-ilk\NTierVeresiye.WFUI\bin\Debug\ja\EntityFramework.resources.dll
+C:\Users\VB\Desktop\SQL-Visual Studio\NTierVeresiye-ilk\NTierVeresiye.WFUI\bin\Debug\ko\EntityFramework.resources.dll
+C:\Users\VB\Desktop\SQL-Visual Studio\NTierVeresiye-ilk\NTierVeresiye.WFUI\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\VB\Desktop\SQL-Visual Studio\NTierVeresiye-ilk\NTierVeresiye.WFUI\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\VB\Desktop\SQL-Visual Studio\NTierVeresiye-ilk\NTierVeresiye.WFUI\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\VB\Desktop\SQL-Visual Studio\NTierVeresiye-ilk\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.csprojAssemblyReference.cache
+C:\Users\VB\Desktop\SQL-Visual Studio\NTierVeresiye-ilk\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.Form1.resources
+C:\Users\VB\Desktop\SQL-Visual Studio\NTierVeresiye-ilk\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.MüsteriEkleme.resources
+C:\Users\VB\Desktop\SQL-Visual Studio\NTierVeresiye-ilk\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.MüsteriGüncelleSil.resources
+C:\Users\VB\Desktop\SQL-Visual Studio\NTierVeresiye-ilk\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.Müsteriler.resources
+C:\Users\VB\Desktop\SQL-Visual Studio\NTierVeresiye-ilk\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.Properties.Resources.resources
+C:\Users\VB\Desktop\SQL-Visual Studio\NTierVeresiye-ilk\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.TedarikciEkleme.resources
+C:\Users\VB\Desktop\SQL-Visual Studio\NTierVeresiye-ilk\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.TedarikciGuncelleme.resources
+C:\Users\VB\Desktop\SQL-Visual Studio\NTierVeresiye-ilk\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.Tedarikciler.resources
+C:\Users\VB\Desktop\SQL-Visual Studio\NTierVeresiye-ilk\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.UrunEkleme.resources
+C:\Users\VB\Desktop\SQL-Visual Studio\NTierVeresiye-ilk\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.UrunGuncelleSil.resources
+C:\Users\VB\Desktop\SQL-Visual Studio\NTierVeresiye-ilk\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.Urunler.resources
+C:\Users\VB\Desktop\SQL-Visual Studio\NTierVeresiye-ilk\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.ZamUygula.resources
+C:\Users\VB\Desktop\SQL-Visual Studio\NTierVeresiye-ilk\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.csproj.GenerateResource.cache
+C:\Users\VB\Desktop\SQL-Visual Studio\NTierVeresiye-ilk\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.csproj.CoreCompileInputs.cache
+C:\Users\VB\Desktop\SQL-Visual Studio\NTierVeresiye-ilk\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.csproj.CopyComplete
+C:\Users\VB\Desktop\SQL-Visual Studio\NTierVeresiye-ilk\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.exe
+C:\Users\VB\Desktop\SQL-Visual Studio\NTierVeresiye-ilk\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.pdb
+C:\Users\VB\Desktop\SQL-Visual Studio\NTierVeresiye-ilk\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.PesinSatis.resources
+C:\Users\VB\Desktop\SQL-Visual Studio\NTierVeresiye-ilk\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.BorcEkle.resources
+C:\Users\VB\Desktop\SQL-Visual Studio\NTierVeresiye-ilk\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.VadeliSatis.resources
+C:\Users\VB\Downloads\NTierVeresiye-27Ocak\NTierVeresiye.WFUI\bin\Debug\NTierVeresiye.WFUI.exe.config
+C:\Users\VB\Downloads\NTierVeresiye-27Ocak\NTierVeresiye.WFUI\bin\Debug\NTierVeresiye.WFUI.exe
+C:\Users\VB\Downloads\NTierVeresiye-27Ocak\NTierVeresiye.WFUI\bin\Debug\NTierVeresiye.WFUI.pdb
+C:\Users\VB\Downloads\NTierVeresiye-27Ocak\NTierVeresiye.WFUI\bin\Debug\NTierVeresite.BLL.dll
+C:\Users\VB\Downloads\NTierVeresiye-27Ocak\NTierVeresiye.WFUI\bin\Debug\NTierVeresiye.BOL.dll
+C:\Users\VB\Downloads\NTierVeresiye-27Ocak\NTierVeresiye.WFUI\bin\Debug\NTierVeresiye.DAL.dll
+C:\Users\VB\Downloads\NTierVeresiye-27Ocak\NTierVeresiye.WFUI\bin\Debug\EntityFramework.dll
+C:\Users\VB\Downloads\NTierVeresiye-27Ocak\NTierVeresiye.WFUI\bin\Debug\NTierVeresite.BLL.pdb
+C:\Users\VB\Downloads\NTierVeresiye-27Ocak\NTierVeresiye.WFUI\bin\Debug\NTierVeresiye.BOL.pdb
+C:\Users\VB\Downloads\NTierVeresiye-27Ocak\NTierVeresiye.WFUI\bin\Debug\NTierVeresiye.DAL.pdb
+C:\Users\VB\Downloads\NTierVeresiye-27Ocak\NTierVeresiye.WFUI\bin\Debug\NTierVeresiye.DAL.dll.config
+C:\Users\VB\Downloads\NTierVeresiye-27Ocak\NTierVeresiye.WFUI\bin\Debug\de\EntityFramework.SqlServer.resources.dll
+C:\Users\VB\Downloads\NTierVeresiye-27Ocak\NTierVeresiye.WFUI\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Users\VB\Downloads\NTierVeresiye-27Ocak\NTierVeresiye.WFUI\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\VB\Downloads\NTierVeresiye-27Ocak\NTierVeresiye.WFUI\bin\Debug\it\EntityFramework.SqlServer.resources.dll
+C:\Users\VB\Downloads\NTierVeresiye-27Ocak\NTierVeresiye.WFUI\bin\Debug\ja\EntityFramework.SqlServer.resources.dll
+C:\Users\VB\Downloads\NTierVeresiye-27Ocak\NTierVeresiye.WFUI\bin\Debug\ko\EntityFramework.SqlServer.resources.dll
+C:\Users\VB\Downloads\NTierVeresiye-27Ocak\NTierVeresiye.WFUI\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\VB\Downloads\NTierVeresiye-27Ocak\NTierVeresiye.WFUI\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\VB\Downloads\NTierVeresiye-27Ocak\NTierVeresiye.WFUI\bin\Debug\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\VB\Downloads\NTierVeresiye-27Ocak\NTierVeresiye.WFUI\bin\Debug\de\EntityFramework.resources.dll
+C:\Users\VB\Downloads\NTierVeresiye-27Ocak\NTierVeresiye.WFUI\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\VB\Downloads\NTierVeresiye-27Ocak\NTierVeresiye.WFUI\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\VB\Downloads\NTierVeresiye-27Ocak\NTierVeresiye.WFUI\bin\Debug\it\EntityFramework.resources.dll
+C:\Users\VB\Downloads\NTierVeresiye-27Ocak\NTierVeresiye.WFUI\bin\Debug\ja\EntityFramework.resources.dll
+C:\Users\VB\Downloads\NTierVeresiye-27Ocak\NTierVeresiye.WFUI\bin\Debug\ko\EntityFramework.resources.dll
+C:\Users\VB\Downloads\NTierVeresiye-27Ocak\NTierVeresiye.WFUI\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\VB\Downloads\NTierVeresiye-27Ocak\NTierVeresiye.WFUI\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\VB\Downloads\NTierVeresiye-27Ocak\NTierVeresiye.WFUI\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\VB\Downloads\NTierVeresiye-27Ocak\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.csprojAssemblyReference.cache
+C:\Users\VB\Downloads\NTierVeresiye-27Ocak\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.BorcEkle.resources
+C:\Users\VB\Downloads\NTierVeresiye-27Ocak\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.Form1.resources
+C:\Users\VB\Downloads\NTierVeresiye-27Ocak\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.MüsteriEkleme.resources
+C:\Users\VB\Downloads\NTierVeresiye-27Ocak\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.MüsteriGüncelleSil.resources
+C:\Users\VB\Downloads\NTierVeresiye-27Ocak\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.MüsterilerSatis.resources
+C:\Users\VB\Downloads\NTierVeresiye-27Ocak\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.Müsteriler.resources
+C:\Users\VB\Downloads\NTierVeresiye-27Ocak\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.PesinSatis.resources
+C:\Users\VB\Downloads\NTierVeresiye-27Ocak\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.Properties.Resources.resources
+C:\Users\VB\Downloads\NTierVeresiye-27Ocak\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.TedarikciEkleme.resources
+C:\Users\VB\Downloads\NTierVeresiye-27Ocak\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.TedarikciGuncelleme.resources
+C:\Users\VB\Downloads\NTierVeresiye-27Ocak\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.Tedarikciler.resources
+C:\Users\VB\Downloads\NTierVeresiye-27Ocak\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.UrunEkleme.resources
+C:\Users\VB\Downloads\NTierVeresiye-27Ocak\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.UrunGuncelleSil.resources
+C:\Users\VB\Downloads\NTierVeresiye-27Ocak\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.Urunler.resources
+C:\Users\VB\Downloads\NTierVeresiye-27Ocak\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.VadeliSatis.resources
+C:\Users\VB\Downloads\NTierVeresiye-27Ocak\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.ZamUygula.resources
+C:\Users\VB\Downloads\NTierVeresiye-27Ocak\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.csproj.GenerateResource.cache
+C:\Users\VB\Downloads\NTierVeresiye-27Ocak\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.csproj.CoreCompileInputs.cache
+C:\Users\VB\Downloads\NTierVeresiye-27Ocak\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.csproj.CopyComplete
+C:\Users\VB\Downloads\NTierVeresiye-27Ocak\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.exe
+C:\Users\VB\Downloads\NTierVeresiye-27Ocak\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.pdb

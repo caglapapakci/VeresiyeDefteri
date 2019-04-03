@@ -1,0 +1,282 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4B007EAB-0241-47AF-83F9-ED92082EE9EA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>NTierVeresiye.WFUI</RootNamespace>
+    <AssemblyName>NTierVeresiye.WFUI</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework.SqlServer">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BorcEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BorcEkle.Designer.cs">
+      <DependentUpon>BorcEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MüsteriEkleme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MüsteriEkleme.Designer.cs">
+      <DependentUpon>MüsteriEkleme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MüsteriGüncelleSil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MüsteriGüncelleSil.Designer.cs">
+      <DependentUpon>MüsteriGüncelleSil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MüsterilerSatis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MüsterilerSatis.Designer.cs">
+      <DependentUpon>MüsterilerSatis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Müsteriler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Müsteriler.Designer.cs">
+      <DependentUpon>Müsteriler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PesinSatis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PesinSatis.Designer.cs">
+      <DependentUpon>PesinSatis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TedarikciEkleme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TedarikciEkleme.Designer.cs">
+      <DependentUpon>TedarikciEkleme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TedarikciGuncelleme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TedarikciGuncelleme.Designer.cs">
+      <DependentUpon>TedarikciGuncelleme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tedarikciler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tedarikciler.Designer.cs">
+      <DependentUpon>Tedarikciler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UrunEkleme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UrunEkleme.Designer.cs">
+      <DependentUpon>UrunEkleme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UrunGuncelleSil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UrunGuncelleSil.Designer.cs">
+      <DependentUpon>UrunGuncelleSil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Urunler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Urunler.Designer.cs">
+      <DependentUpon>Urunler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VadeliSatis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VadeliSatis.Designer.cs">
+      <DependentUpon>VadeliSatis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ZamUygula.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ZamUygula.Designer.cs">
+      <DependentUpon>ZamUygula.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="BorcEkle.resx">
+      <DependentUpon>BorcEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MüsteriEkleme.resx">
+      <DependentUpon>MüsteriEkleme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MüsteriGüncelleSil.resx">
+      <DependentUpon>MüsteriGüncelleSil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MüsterilerSatis.resx">
+      <DependentUpon>MüsterilerSatis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Müsteriler.resx">
+      <DependentUpon>Müsteriler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PesinSatis.resx">
+      <DependentUpon>PesinSatis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="TedarikciEkleme.resx">
+      <DependentUpon>TedarikciEkleme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TedarikciGuncelleme.resx">
+      <DependentUpon>TedarikciGuncelleme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tedarikciler.resx">
+      <DependentUpon>Tedarikciler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UrunEkleme.resx">
+      <DependentUpon>UrunEkleme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UrunGuncelleSil.resx">
+      <DependentUpon>UrunGuncelleSil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Urunler.resx">
+      <DependentUpon>Urunler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VadeliSatis.resx">
+      <DependentUpon>VadeliSatis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ZamUygula.resx">
+      <DependentUpon>ZamUygula.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_1_41688.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_1_416881.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_1_416882.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_icons_update_1564533.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_f-cross_256_282471.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\NTierVeresite.BLL\NTierVeresite.BLL.csproj">
+      <Project>{cdda262b-1660-4276-bba3-97a81a98e2d1}</Project>
+      <Name>NTierVeresite.BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\NTierVeresiye.BOL\NTierVeresiye.BOL.csproj">
+      <Project>{140fe82f-79ec-4353-8e61-66363a460827}</Project>
+      <Name>NTierVeresiye.BOL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_icon-53-notebook-list_315272.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arkaplan1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_business_finance_money-38_2784269.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folded-document-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_icon-person-add_211872.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_icon-person-add_2118721.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_OUTLINE_Bussiness_and_Media-01_4041192.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_money_172506.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_OUTLINE_Bussiness_and_Media-01_40411921.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_icon-53-notebook-list_314893.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_Tick_Mark_1398911.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\B.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\A.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\C.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
